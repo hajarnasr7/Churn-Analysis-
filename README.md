@@ -1,4 +1,3 @@
-# Churn-Analysis-
 # Churn Analysis Project
 
 ## Description
